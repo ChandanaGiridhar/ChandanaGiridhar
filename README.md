@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChandanaGiridhar
-- 👀 I’m interested in Machine ;earning and coding
+- 👀 I’m interested in Machine learning and coding
 - 🌱 I’m currently learning python, web parsing, HTML and CSS, Django
 - 📫 How to reach me at chandanaudupaofficial@gmail.com
 
